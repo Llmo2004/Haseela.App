@@ -1,16 +1,58 @@
-# haseela_app
+# 🌱 Haseela — Your Journey Starts Here
 
-A new Flutter project.
+![Haseela Poster](Haseela.png)
+Haseela is a gamified financial literacy mobile application designed to help children understand money through everyday actions. With tasks, allowances, and goal-setting, children learn responsibility in an engaging, supportive, and family-friendly environment.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+Haseela makes financial education fun and interactive by encouraging children to complete tasks, earn rewards, manage their money, and save toward their personal goals. It also provides parents with tools to assign tasks, manage allowances, and monitor their children's progress.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👧 Child Features
+- **Wallet Dashboard:** Track wallet balance, lessons, earnings, and financial progress.
+- **Tasks & Rewards:** Complete fun tasks, upload proof, and earn rewards.
+- **Savings & Wishlist:** Add desired items, track savings progress, and work toward personal goals.
+- **Leaderboard:** Climb the ranks, compare progress, and celebrate achievements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👨‍👩‍👧 Parent Features
+- **Family Dashboard:** View weekly allowances and monitor children's progress.
+- **Task Management:** Assign tasks, track completion, and encourage responsibility.
+- **Progress Monitoring:** Keep track of each child's activities and achievements.
+- **Wishlist Monitoring:** View what children are saving for and support their goals.
+
+## 🛠️ Tools & Technologies
+
+- Flutter
+- Firebase
+- Figma
+- Trello
+- GitHub
+
+## 🎓 Project Information
+
+- **Course:** SWE444
+- **University:** King Saud University
+- **Project Type:** Collaborative Team Project
+- **Domain:** Financial Literacy & Mobile Application Development
+
+## 👥 Team
+
+- Lama Alhunayhin
+- Noura Alyemni
+- Jumanah Alwakeel
+- Nouf Almandil
+- Hanin Alturki
+
+## 🎓 Supervised By
+
+- L. Razan Algamdi
+- L. Ghadah Alamer
+
+## 🎯 Project Goal
+
+Haseela aims to empower children to develop healthy financial habits from an early age by transforming money management into an engaging learning experience, while helping parents guide their children's financial journey.
+
+---
+
+*Developed collaboratively as part of the SWE444 course at King Saud University.*
