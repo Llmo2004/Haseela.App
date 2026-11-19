@@ -1,6 +1,6 @@
 # 🌱 Haseela — Your Journey Starts Here
 
-![Haseela Poster](Haseela.jpg)
+![Haseela Poster](Haseela.JPG)
 
 
 Haseela is a gamified financial literacy mobile application designed to help children understand money through everyday actions. With tasks, allowances, and goal-setting, children learn responsibility in an engaging, supportive, and family-friendly environment.
